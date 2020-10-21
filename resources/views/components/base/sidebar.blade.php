@@ -1,7 +1,7 @@
-<div class="bg-indigo-900 flex flex-col items-center justify-between">
+<div class="flex flex-col items-center justify-between shadow">
     <div>
-        <a href="#" class="w-16 h-16 bg-purple-800 flex justify-center items-center">
-            <i class="fab fa-steam text-white text-4xl"></i>
+        <a href="#" class="w-16 h-16 flex justify-center items-center">
+            <i class="fab fa-steam text-purple-600 text-4xl"></i>
         </a>
         <nav class="flex flex-col items-center py-6">
             <a href="#" class="w-10 h-10 rounded-md bg-white flex justify-center items-center"><i

@@ -1,5 +1,5 @@
 <header class="bg-white shadow-xs">
-    <div class="container mx-auto flex justify-between items-center h-16">
+    <div class="container mx-auto flex justify-between items-center h-16 px-4">
         <form class="flex items-center">
             <div class="flex items-center">
                 <button>
@@ -19,7 +19,7 @@
                     alt="crashunix" />
                 <button><i class="fa fa-chevron-down text-sm text-gray-500"></i></button>
             </div>
-            <div class="flex items-center px-3 border-l-2">
+            <div class="flex items-center pl-3 border-l-2">
                 <button class="relative px-1 mx-1">
                     <i class="fa fa-bell text-gray-500"></i>
                     <div class="w-2 h-2 bg-blue-500 rounded-full absolute top-0 right-0 animate-ping"></div>

@@ -16,7 +16,7 @@
 <body>
     <div class="flex h-screen">
         @include('components/base/sidebar')
-        <main class="flex-1 bg-gray-200">
+        <main class="flex-1">
             @include('components/base/header')
             @yield('content')
         </main>
